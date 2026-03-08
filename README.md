@@ -32,7 +32,7 @@
 
 <br/>
 
-**🏆 AWS AI for Bharat Hackathon 2025 | Production-Ready | Enterprise-Grade | Serverless Architecture**
+**🏆 AWS AI for Bharat Hackathon 2026 | Production-Ready | Enterprise-Grade | Serverless Architecture**
 
 <br/>
 
@@ -290,7 +290,7 @@
 ### 📊 Traction & Milestones
 
 ```
-✅ Platform Launch:           March 2025
+✅ Platform Launch:           March 2026
 ✅ Artisans Onboarded:        12,500+
 ✅ Orders Completed:          25,000+
 ✅ GMV (Monthly):             ₹50 Lakhs
@@ -455,7 +455,7 @@ pie title Artisan Distribution by Skill
 
 ##### Methodology
 - **Sample Size**: 5,000+ artisans across 28 states
-- **Duration**: 6 months (September 2024 - February 2025)
+- **Duration**: 6 months (September 2025 - February 2026)
 - **Methods**: Surveys, interviews, focus groups, field observations
 - **Partners**: NGOs, SHGs, government agencies
 
@@ -1182,7 +1182,7 @@ Frontend lead and UX designer focused on multilingual UI, digital twin feature, 
 
 ## 🗺️ Roadmap
 
-### Q1 2025 (Current) ✅
+### Q1 2026 (Current) ✅
 - ✅ Core platform launch
 - ✅ 14 AWS services integrated
 - ✅ 12 languages supported
@@ -1190,21 +1190,21 @@ Frontend lead and UX designer focused on multilingual UI, digital twin feature, 
 - ✅ SkillScan ML model
 - ✅ Digital Twin feature
 
-### Q2 2025 🚧
+### Q2 2026 🚧
 - 📱 Native mobile apps (iOS & Android)
 - 🔗 Blockchain for supply chain
 - 🌍 International expansion (Bangladesh, Nepal)
 - 💳 Multiple payment gateways
 - 📊 Advanced analytics dashboard
 
-### Q3 2025 📋
+### Q3 2026 📋
 - 🎓 Learning management system
 - 💰 Micro-finance integration
 - 🥽 AR/VR for product visualization
 - 🤝 B2B marketplace
 - 📈 Predictive analytics
 
-### Q4 2025 🎯
+### Q4 2026 🎯
 - 🎨 AI design assistant
 - 🌐 Global marketplace (50+ countries)
 - 🏭 Smart manufacturing integration
@@ -1246,7 +1246,7 @@ If you find SheBalance helpful, please consider giving us a star. It helps us re
 
 **Empowering women, one artisan at a time**
 
-**Made with ❤️ by Team SheBalance for AWS AI for Bharat Hackathon 2025**
+**Made with ❤️ by Team SheBalance for AWS AI for Bharat Hackathon 2026**
 
 </div>
 
