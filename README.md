@@ -1,67 +1,81 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/M-Mahek-03/SheBalance/main/logo%20She%20balance.png" alt="SheBalance Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/M-Mahek-03/SheBalance/main/logo%20She%20balance.png" alt="SheBalance Logo" width="250"/>
 
-# 🌸 SheBalance
+<h1>🌸 SheBalance</h1>
 
-### Enterprise AI-Powered Artisan Empowerment Platform
-#### Leveraging AWS AI to Transform Lives of 10 Million Women Artisans
-
-<br/>
-
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
-[![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
-[![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+<h3>Enterprise AI-Powered Artisan Empowerment Platform</h3>
+<h4>Leveraging AWS AI to Transform Lives of 10 Million Women Artisans</h4>
 
 <br/>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/M-Mahek-03/SheBalance)
-[![Code Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen?style=for-the-badge&logo=codecov)](https://github.com/M-Mahek-03/SheBalance)
-[![Security Rating](https://img.shields.io/badge/security-A+-brightgreen?style=for-the-badge&logo=security)](https://github.com/M-Mahek-03/SheBalance)
-[![AWS Well-Architected](https://img.shields.io/badge/AWS-Well--Architected-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/architecture/well-architected/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/M-Mahek-03/SheBalance/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/M-Mahek-03/SheBalance?style=for-the-badge&logo=github)](https://github.com/M-Mahek-03/SheBalance/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/M-Mahek-03/SheBalance?style=for-the-badge&logo=github)](https://github.com/M-Mahek-03/SheBalance/network)
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="https://aws.amazon.com/bedrock/"><img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/></a>
+  <a href="https://aws.amazon.com/sagemaker/"><img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker"/></a>
+  <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/></a>
+  <a href="https://aws.amazon.com/dynamodb/"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+</p>
 
 <br/>
 
-**🏆 AWS AI for Bharat Hackathon 2026 | Production-Ready | Enterprise-Grade | Serverless Architecture**
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/M-Mahek-03/SheBalance"><img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions" alt="Build"/></a>
+  <a href="https://github.com/M-Mahek-03/SheBalance"><img src="https://img.shields.io/badge/coverage-92%25-brightgreen?style=for-the-badge&logo=codecov" alt="Coverage"/></a>
+  <a href="https://github.com/M-Mahek-03/SheBalance"><img src="https://img.shields.io/badge/security-A+-brightgreen?style=for-the-badge&logo=security" alt="Security"/></a>
+  <a href="https://aws.amazon.com/architecture/well-architected/"><img src="https://img.shields.io/badge/AWS-Well--Architected-FF9900?style=for-the-badge&logo=amazon-aws" alt="Well-Architected"/></a>
+</p>
+
+<p align="center">
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/></a>
+  <a href="https://github.com/M-Mahek-03/SheBalance/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained"/></a>
+  <a href="https://github.com/M-Mahek-03/SheBalance/stargazers"><img src="https://img.shields.io/github/stars/M-Mahek-03/SheBalance?style=for-the-badge&logo=github" alt="Stars"/></a>
+  <a href="https://github.com/M-Mahek-03/SheBalance/network"><img src="https://img.shields.io/github/forks/M-Mahek-03/SheBalance?style=for-the-badge&logo=github" alt="Forks"/></a>
+</p>
 
 <br/>
 
-[📖 Documentation](#-documentation) • [🏗️ Architecture](#️-solution-architecture) • [👥 Team](#-team) • [🚀 Quick Start](#-getting-started) • [🤝 Contributing](./CONTRIBUTING.md)
+<h3>🏆 AWS AI for Bharat Hackathon 2026</h3>
+<p><strong>Production-Ready | Enterprise-Grade | Serverless Architecture</strong></p>
+
+<br/>
+
+<p>
+  <a href="#-documentation">📖 Documentation</a> •
+  <a href="#️-solution-architecture">🏗️ Architecture</a> •
+  <a href="#-team">👥 Team</a> •
+  <a href="#-getting-started">🚀 Quick Start</a> •
+  <a href="./CONTRIBUTING.md">🤝 Contributing</a>
+</p>
 
 ---
 
-### 🎯 Empowering 10 Million Women Artisans Through AI
+<h3>🎯 Empowering 10 Million Women Artisans Through AI</h3>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Artisans-12.5K+-blue?style=for-the-badge" alt="Artisans"/>
+<img src="https://img.shields.io/badge/Artisans-12.5K+-4A90E2?style=for-the-badge&logo=users&logoColor=white" alt="Artisans"/>
 <br/><sub><b>Active Users</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Income-3x_Increase-green?style=for-the-badge" alt="Income"/>
+<img src="https://img.shields.io/badge/Income-3x_Increase-50C878?style=for-the-badge&logo=trending-up&logoColor=white" alt="Income"/>
 <br/><sub><b>Impact</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Languages-12-purple?style=for-the-badge" alt="Languages"/>
+<img src="https://img.shields.io/badge/Languages-12-9B59B6?style=for-the-badge&logo=google-translate&logoColor=white" alt="Languages"/>
 <br/><sub><b>Supported</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/AWS-14_Services-orange?style=for-the-badge" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-14_Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <br/><sub><b>Integrated</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Uptime-99.94%25-brightgreen?style=for-the-badge" alt="Uptime"/>
+<img src="https://img.shields.io/badge/Uptime-99.94%25-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
 <br/><sub><b>Reliability</b></sub>
 </td>
 </tr>
