@@ -32,7 +32,7 @@
 
 <br/>
 
-**🏆 AWS AI for Bharat Hackathon 2024 | Production-Ready | Enterprise-Grade | Serverless Architecture**
+**🏆 AWS AI for Bharat Hackathon 2025 | Production-Ready | Enterprise-Grade | Serverless Architecture**
 
 <br/>
 
@@ -290,7 +290,7 @@
 ### 📊 Traction & Milestones
 
 ```
-✅ Platform Launch:           December 2024
+✅ Platform Launch:           March 2025
 ✅ Artisans Onboarded:        12,500+
 ✅ Orders Completed:          25,000+
 ✅ GMV (Monthly):             ₹50 Lakhs
@@ -455,7 +455,7 @@ pie title Artisan Distribution by Skill
 
 ##### Methodology
 - **Sample Size**: 5,000+ artisans across 28 states
-- **Duration**: 6 months (June-November 2024)
+- **Duration**: 6 months (September 2024 - February 2025)
 - **Methods**: Surveys, interviews, focus groups, field observations
 - **Partners**: NGOs, SHGs, government agencies
 
@@ -1246,7 +1246,7 @@ If you find SheBalance helpful, please consider giving us a star. It helps us re
 
 **Empowering women, one artisan at a time**
 
-Made with ❤️ by Team SheBalance for AWS AI for Bharat Hackathon 2024
+**Made with ❤️ by Team SheBalance for AWS AI for Bharat Hackathon 2025**
 
 </div>
 
