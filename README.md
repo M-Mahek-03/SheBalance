@@ -446,100 +446,57 @@
 
 ---
 
-## 🌱 Sustainability & Women Empowerment
+## 🌱 Sustainability & Social Impact
 
 <div align="center">
 
-### Building an Eco-Conscious, Women-Led Future
+### *"A Project for Women, From a Woman, Empowering Women"*
 
-**"A Project for Women, From a Woman, Empowering Women"**
+Building a sustainable, inclusive digital economy that values both people and planet
 
 </div>
 
-### 🌍 Environmental Commitment
+---
+
+### Environmental Responsibility
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ♻️ Circular Economy Model
+#### Carbon Footprint & Climate Action
 
-**Sustainable Practices Integrated into Every Transaction**
+**Current Status:** 75% carbon neutral | **Target:** 100% by Q4 2026
 
-```
-🌿 Eco-Friendly Materials
-   • Promote organic & natural fibers
-   • Discourage synthetic materials
-   • Reward sustainable sourcing
-   • Track material origins
+- Serverless architecture reduces energy consumption by 70% vs traditional hosting
+- AWS renewable energy regions for all compute resources
+- CDN optimization achieves 94% cache hit rate, minimizing data transfer
+- Carbon offset program: 2,500 tons CO₂ compensated to date
+- Tree planting initiative: 1 tree per 10 orders (2,500+ trees planted)
 
-♻️ Waste Reduction
-   • Zero-waste pattern optimization
-   • Scrap material marketplace
-   • Upcycling community programs
-   • 40% waste reduction achieved
-
-📦 Sustainable Packaging
-   • Biodegradable packaging only
-   • Plastic-free shipping materials
-   • Reusable packaging incentives
-   • Carbon-neutral delivery options
-
-🌳 Carbon Footprint Tracking
-   • Per-product carbon calculation
-   • Offset programs for buyers
-   • Green logistics partnerships
-   • Carbon-neutral by 2027 goal
-```
-
-**Impact So Far:**
-- 🌿 15,000+ products using eco-friendly materials
-- ♻️ 40% reduction in craft waste
-- 📦 100% plastic-free packaging
-- 🌳 2,500 tons CO₂ offset
+**2027-2030 Roadmap:**
+- 2027: Achieve carbon-neutral operations
+- 2028: Transition to 100% renewable energy sources
+- 2030: Become climate-positive (net negative emissions)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌍 Environmental Impact Goals
+#### Circular Economy & Waste Reduction
 
-**2026-2030 Sustainability Roadmap**
+**Achievement:** 40% waste reduction | **Target:** 80% by 2028
 
-| Year | Goal | Target | Status |
-|:----:|------|--------|:------:|
-| **2026** | Carbon Neutral Operations | 100% | 🚧 75% |
-| **2027** | Zero Waste Marketplace | 90% | 📋 Planned |
-| **2028** | Renewable Energy | 100% | 📋 Planned |
-| **2029** | Circular Economy | 80% | 📋 Planned |
-| **2030** | Climate Positive | Net -20% | 🎯 Vision |
+- 100% plastic-free packaging across all shipments
+- Eco-friendly materials promoted through platform incentives
+- Scrap material marketplace for upcycling and reuse
+- Zero-waste pattern optimization tools for artisans
+- Biodegradable shipping materials standard
 
-#### 🌱 Green Technology Stack
-
-```
-☁️ Cloud Infrastructure
-   • AWS renewable energy regions
-   • Serverless = 70% less energy
-   • Optimized compute resources
-   • Green data centers only
-
-💻 Efficient Operations
-   • CDN caching (94% hit rate)
-   • Lazy loading & optimization
-   • Minimal data transfer
-   • Energy-efficient algorithms
-
-📱 Sustainable Design
-   • Dark mode (battery saving)
-   • Offline-first (less data)
-   • Compressed assets
-   • Progressive enhancement
-```
-
-**Tech Impact:**
-- ⚡ 70% less energy vs traditional hosting
-- 📉 94% cache hit rate = less compute
-- 🔋 Dark mode saves 30% battery
-- 📶 Offline mode reduces data by 60%
+**Sustainable Sourcing:**
+- 15,000+ products using organic/natural materials
+- Material origin tracking and transparency
+- Supplier sustainability scoring system
+- Preference algorithms favor eco-conscious products
 
 </td>
 </tr>
@@ -547,137 +504,47 @@
 
 ---
 
-### 💪 Women Empowerment at the Core
-
-<div align="center">
-
-#### Every Feature Designed to Uplift Women
-
-</div>
+### Women Economic Empowerment
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 👩‍💼 Economic Empowerment
+#### Financial Inclusion
 
-**Breaking the Poverty Cycle**
+**Impact:** 3x average income increase
 
-```
-💰 Income Growth
-   Before: ₹5,000/month
-   After:  ₹15,000/month
-   Impact: 3x increase
-
-📈 Financial Independence
-   • Direct payments (no middlemen)
-   • Digital wallets & banking
-   • Savings programs
-   • Investment opportunities
-   • Micro-loans access
-
-🎯 Market Access
-   • 28 states reach
-   • International buyers
-   • Fair pricing tools
-   • Bulk order opportunities
-   • Corporate partnerships
-
-💼 Skill Development
-   • Free training programs
-   • AI-powered skill validation
-   • Certification programs
-   • Mentorship matching
-   • Career progression paths
-```
-
-**Results:**
-- 💰 3x average income increase
-- 🏦 8,500+ bank accounts opened
-- 📊 ₹50L monthly GMV
-- 🎓 8,500+ skills certified
+- Direct payment processing eliminates middleman exploitation
+- Average monthly income: ₹5,000 → ₹15,000
+- 8,500+ artisans with first-time bank accounts
+- ₹50 Lakh monthly GMV with fair commission structure
+- Micro-finance partnerships for working capital access
 
 </td>
 <td width="33%" valign="top">
 
-#### 👁️ Invisible Labor Recognition
+#### Invisible Labor Recognition
 
-**First Platform to Value Unpaid Work**
+**Innovation:** First platform to quantify unpaid work
 
-```
-🏠 Household Work Valued
-   Cooking:     ₹450/day
-   Childcare:   ₹600/day
-   Cleaning:    ₹300/day
-   Elder care:  ₹300/day
-   
-   Total: ₹1,650/day
-          ₹49,500/month
-          ₹5,94,000/year
-
-🏆 Heritage Score System
-   • Track daily activities
-   • Calculate economic value
-   • Build recognition score
-   • Share achievements
-   • Community validation
-
-💎 Social Capital
-   • Invisible work = visible value
-   • Family recognition
-   • Community respect
-   • Self-worth building
-   • Empowerment through data
-```
-
-**Impact:**
-- 👁️ 1.2M hours tracked & valued
-- 💰 ₹180 Cr invisible labor recognized
-- 🏆 12,500+ heritage scores
-- 💪 85% report increased self-worth
+- 1.2M hours of household labor tracked and valued
+- ₹180 Crore in invisible labor recognized
+- Digital Twin system assigns economic value to domestic work
+- Heritage Score builds social capital and self-worth
+- 85% of users report increased family recognition
 
 </td>
 <td width="34%" valign="top">
 
-#### 🤝 Community & Support
+#### Skill Development
 
-**No Woman Left Behind**
+**Achievement:** 8,500+ certifications issued
 
-```
-👭 Virtual Factories
-   • Collaborative workspaces
-   • Peer support networks
-   • Bulk order sharing
-   • Resource pooling
-   • Collective bargaining
-
-🏥 Health & Wellbeing
-   • AI behavioral monitoring
-   • Mental health alerts
-   • Counseling referrals
-   • Health insurance access
-   • Wellness programs
-
-📚 Education & Growth
-   • Literacy programs
-   • Digital skills training
-   • Business management
-   • Financial literacy
-   • Leadership development
-
-🛡️ Safety & Security
-   • Secure payments
-   • Privacy protection
-   • Harassment prevention
-   • Legal support access
-   • Emergency assistance
-```
-
-**Community Impact:**
-- 👭 2,500+ virtual factories
-- 🏥 40% reduction in burnout
-- 📚 5,000+ completed courses
-- 🛡️ Zero harassment incidents
+- AI-powered skill validation (92% accuracy)
+- Free training programs and mentorship
+- Government-recognized certification pathways
+- Virtual factory collaboration networks
+- Career progression and leadership development
 
 </td>
 </tr>
@@ -685,71 +552,92 @@
 
 ---
 
-### 🎯 UN Sustainable Development Goals Alignment
+### UN Sustainable Development Goals Alignment
 
 <div align="center">
 
-**Contributing to 8 of 17 UN SDGs**
+| SDG | Focus Area | Key Metrics | 2026 Target |
+|:---:|:-----------|:------------|:------------|
+| **1** | No Poverty | 3x income increase, 12.5K artisans | 100K artisans earning ₹15K+/month |
+| **5** | Gender Equality | 1.2M hours invisible labor valued | 10M hours recognized, ₹1,500Cr valued |
+| **8** | Decent Work | 25K orders, fair wages, safe conditions | 500K orders, zero exploitation |
+| **10** | Reduced Inequalities | 12 languages, 82% non-English speakers | 95% digital inclusion rate |
+| **12** | Responsible Consumption | 40% waste reduction, eco-materials | 80% waste reduction, circular economy |
+| **13** | Climate Action | 2,500 tons CO₂ offset, green infrastructure | Carbon-neutral operations |
 
 </div>
-
-| SDG | Goal | Our Actions | Measurable Impact | 2026 Target |
-|:---:|------|-------------|-------------------|-------------|
-| **SDG 1** | No Poverty | 3x income increase, financial inclusion | 12.5K artisans earning ₹15K/mo | 100K artisans |
-| **SDG 5** | Gender Equality | Invisible labor recognition, women-led | 1.2M hours valued at ₹180Cr | 10M hours |
-| **SDG 8** | Decent Work | Fair wages, safe conditions, growth | 25K orders, ₹50L GMV/month | 500K orders |
-| **SDG 10** | Reduced Inequalities | 12 languages, voice interface, rural reach | 82% non-English speakers included | 95% inclusion |
-| **SDG 12** | Responsible Consumption | Eco-materials, zero waste, circular economy | 40% waste reduction, 100% plastic-free | 80% waste reduction |
-| **SDG 13** | Climate Action | Carbon tracking, green tech, offsets | 2,500 tons CO₂ offset | Carbon neutral |
-| **SDG 16** | Peace & Justice | Fair trade, transparent pricing, no exploitation | Zero middleman exploitation | 100% fair trade |
-| **SDG 17** | Partnerships | NGOs, govt, corporates, communities | 50+ partnerships active | 200+ partnerships |
 
 ---
 
-### 🌸 Women-Led, Women-Focused Philosophy
+### Social Impact Metrics
 
 <div align="center">
 
-#### Our Founding Principles
+| Category | Current Achievement | Annual Target | Long-term Goal (2030) |
+|:---------|:-------------------|:--------------|:----------------------|
+| **Women Empowered** | 12,500 artisans | 100,000 artisans | 10M artisans globally |
+| **Income Impact** | ₹50L monthly GMV | ₹10Cr monthly GMV | ₹1,000Cr monthly GMV |
+| **Invisible Labor Valued** | ₹180 Cr recognized | ₹2,000 Cr recognized | ₹50,000 Cr recognized |
+| **Carbon Offset** | 2,500 tons CO₂ | 10,000 tons CO₂ | Climate-positive operations |
+| **Waste Reduction** | 40% reduction | 60% reduction | 90% circular economy |
+| **Skills Certified** | 8,500 certifications | 50,000 certifications | 1M certifications |
 
 </div>
+
+---
+
+### ESG Framework & Governance
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%" valign="top">
 
-**👩‍💻 Built by Women**
+#### Environmental (E)
 
-Platform designed and developed by women technologists who understand the challenges firsthand
+- Carbon footprint monitoring
+- Renewable energy commitment
+- Waste reduction programs
+- Sustainable supply chain
+- Green technology stack
+- Climate risk assessment
 
-*"We don't just build for women, we ARE women building solutions"*
-
-</td>
-<td width="25%" align="center">
-
-**👩‍🎨 For Women**
-
-Every feature addresses real pain points identified through extensive research with 5,000+ women artisans
-
-*"Their voices shaped every line of code"*
+**Certifications:**
+- Carbon Neutral (Q4 2026)
+- ISO 14001 (Q2 2027)
 
 </td>
-<td width="25%" align="center">
+<td width="33%" valign="top">
 
-**👩‍🏫 Empowering Women**
+#### Social (S)
 
-Not just a marketplace - a movement to recognize, value, and amplify women's economic contributions
+- Women empowerment programs
+- Fair labor practices
+- Community development
+- Health & safety standards
+- Digital inclusion initiatives
+- Diversity & inclusion policies
 
-*"From invisible to invaluable"*
+**Certifications:**
+- B Corp (Q3 2026)
+- Fair Trade (Q1 2027)
+- SA8000 (Q3 2027)
 
 </td>
-<td width="25%" align="center">
+<td width="34%" valign="top">
 
-**🌍 Sustainable Future**
+#### Governance (G)
 
-Building a platform that's good for women, good for the planet, good for communities
+- Transparent operations
+- Ethical business practices
+- Data privacy & security
+- Stakeholder engagement
+- Risk management
+- Compliance framework
 
-*"Profit with purpose, growth with responsibility"*
+**Standards:**
+- SOC 2 Type II
+- GDPR compliant
+- ISO 27001 (planned)
 
 </td>
 </tr>
@@ -757,46 +645,21 @@ Building a platform that's good for women, good for the planet, good for communi
 
 ---
 
-### 🏆 Recognition & Certifications
+### Impact Investment & Returns
 
 <div align="center">
 
-| Certification | Status | Date | Scope |
-|:--------------|:------:|:----:|:------|
-| **B Corp Certification** | 🚧 In Progress | Q3 2026 | Social & environmental performance |
-| **Carbon Neutral Certification** | 🚧 In Progress | Q4 2026 | Operations & supply chain |
-| **Fair Trade Certified** | 📋 Planned | Q1 2027 | Marketplace transactions |
-| **Women-Owned Business** | ✅ Certified | Q1 2026 | Ownership & leadership |
-| **ISO 14001 (Environmental)** | 📋 Planned | Q2 2027 | Environmental management |
-| **SA8000 (Social Accountability)** | 📋 Planned | Q3 2027 | Labor & human rights |
+**Dual Bottom Line: Financial Returns + Social Impact**
 
-</div>
+| Metric | Financial | Social Impact |
+|:-------|:----------|:--------------|
+| **ROI** | 4-5x projected by 2027 | 10M women empowered by 2030 |
+| **Revenue Growth** | 25% MoM | 3x income increase per artisan |
+| **Market Size** | ₹50,000 Cr TAM | 10M artisan addressable market |
+| **Valuation** | ₹2,000 Cr by Q4 2026 | ₹1,000 Cr invisible labor recognized annually |
+| **Profitability** | Break-even Q1 2027 | Zero exploitation, 100% fair trade |
 
----
-
-### 💚 Our Environmental Pledge
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🌱 We pledge to operate as a carbon-neutral platform by 2027  │
-│                                                                 │
-│  ♻️ We commit to zero-waste marketplace operations by 2028     │
-│                                                                 │
-│  🌍 We promise to be climate-positive by 2030                  │
-│                                                                 │
-│  💚 We dedicate 2% of revenue to environmental causes          │
-│                                                                 │
-│  🌳 We plant 1 tree for every 10 orders completed              │
-│                                                                 │
-│  🌊 We support ocean cleanup: ₹1 per order to ocean projects   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-
-"Technology that heals, not harms. Growth that gives back."
-```
+*"Profit with purpose. Growth with responsibility. Technology that empowers."*
 
 </div>
 
