@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/M-Mahek-03/SheBalance/main/logo%20She%20balance.png" alt="SheBalance Logo" width="250"/>
+<img src="SheBalance.png" alt="SheBalance Logo" width="250"/>
 
 <h1>🌸 SheBalance</h1>
 
