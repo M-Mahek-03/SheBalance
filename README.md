@@ -1522,16 +1522,16 @@ Create `.env` file in backend directory:
 ```env
 # AWS Configuration
 AWS_REGION=ap-south-1
-AWS_ACCESS_KEY_ID=your_access_key
-AWS_SECRET_ACCESS_KEY=your_secret_key
+AWS_ACCESS_KEY_ID=AKIA****************
+AWS_SECRET_ACCESS_KEY=****************************************
 
 # DynamoDB Tables
 USERS_TABLE=shebalance-users
 ORDERS_TABLE=shebalance-orders
 SKILLS_TABLE=shebalance-skills
 
-# JWT Secret
-JWT_SECRET=your_jwt_secret_key
+# JWT Secret (use strong random string, min 32 characters)
+JWT_SECRET=****************************************
 
 # Server Configuration
 PORT=5001
@@ -1543,6 +1543,8 @@ BEDROCK_MODEL_ID=anthropic.claude-3-sonnet-20240229-v1:0
 # SageMaker
 SAGEMAKER_ENDPOINT=skillscan-endpoint
 ```
+
+**Security Note:** Never commit actual credentials to version control. Use AWS IAM roles in production.
 
 ### Running the Application
 
@@ -1560,19 +1562,13 @@ node frontend-server.js
 
 ### Test Credentials
 
-```
-Admin:
-Email: admin@shebalance.com
-Password: admin123
+**Note:** For demo purposes only. Change all passwords in production.
 
-Artisan:
-Email: priya@example.com
-Password: artisan123
-
-Buyer:
-Email: rahul@example.com
-Password: buyer123
-```
+| Role | Email | Password |
+|:-----|:------|:---------|
+| Admin | admin@shebalance.com | `[Contact team for credentials]` |
+| Artisan | priya@example.com | `[Contact team for credentials]` |
+| Buyer | rahul@example.com | `[Contact team for credentials]` |
 
 ---
 
