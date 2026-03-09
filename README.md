@@ -91,35 +91,46 @@
 
 </div>
 
-## 🎥 Platform Demo
+## 🎥 Platform Demonstration
 
 <div align="center">
 
-### 🚀 Watch SheBalance in Action
+### Experience SheBalance Technology
 
 [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Platform_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎬 COMPREHENSIVE PLATFORM WALKTHROUGH                          │
-│                                                                 │
-│  ✨ Complete feature demonstration                             │
-│  🗣️ Multilingual voice interface showcase                      │
-│  🤖 AI Sakhi intelligent assistant in action                   │
-│  📸 SkillScan ML validation demonstration                      │
-│  👁️ Digital Twin invisible labor tracking                      │
-│  🏭 Virtual factory collaboration features                     │
-│  📊 Real-time analytics and insights                           │
-│                                                                 │
-│  ⏱️ Duration: 8 minutes | 🎯 Full platform overview            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 </div>
 
----
+**Comprehensive 8-minute walkthrough showcasing:**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Core Features**
+- Multilingual AI interface (12 languages)
+- Voice-first navigation and commands
+- AI Sakhi conversational assistant
+- SkillScan ML-powered validation
+- Digital Twin invisible labor tracking
+- Real-time order management
+
+</td>
+<td width="50%" valign="top">
+
+**Technical Capabilities**
+- AWS Bedrock AI integration
+- SageMaker ML model inference
+- Serverless architecture performance
+- Real-time analytics dashboard
+- Virtual factory collaboration
+- End-to-end user workflows
+
+</td>
+</tr>
+</table>
+
+------
 
 ## 📸 Platform Screenshots
 
