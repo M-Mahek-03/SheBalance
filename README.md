@@ -141,24 +141,24 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://via.placeholder.com/600x400/8D6E63/FFFFFF?text=Artisan+Dashboard+%7C+12+Languages" alt="Dashboard"/>
+<img src="Dashboard.jpeg" alt="Dashboard"/>
 <br/>
 <sub><b>Artisan Dashboard</b> - Multilingual interface with voice commands</sub>
 </td>
 <td width="50%">
-<img src="https://via.placeholder.com/600x400/5D4E37/FFFFFF?text=AI+Sakhi+Chatbot+%7C+Claude+3" alt="AI Sakhi"/>
+<img src="AI Sakhi.jpeg" alt="AI Sakhi"/>
 <br/>
 <sub><b>AI Sakhi</b> - Context-aware assistance in native languages</sub>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://via.placeholder.com/600x400/8B4513/FFFFFF?text=SkillScan+ML+%7C+92%25+Accuracy" alt="SkillScan"/>
+<img src="SkillScan.jpeg" alt="SkillScan"/>
 <br/>
 <sub><b>SkillScan</b> - AI-powered skill validation using SageMaker</sub>
 </td>
 <td width="50%">
-<img src="https://via.placeholder.com/600x400/A0522D/FFFFFF?text=Digital+Twin+%7C+Invisible+Labor" alt="Digital Twin"/>
+<img src="Digital Twin.jpeg" alt="Digital Twin"/>
 <br/>
 <sub><b>Digital Twin</b> - First-ever invisible labor tracking system</sub>
 </td>
@@ -166,8 +166,6 @@
 </table>
 
 </div>
-
----
 
 ---
 
