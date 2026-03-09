@@ -7,7 +7,7 @@
 <h3>Enterprise AI-Powered Artisan Empowerment Platform</h3>
 <h4>Leveraging AWS AI to Transform Lives of 10 Million Women Artisans</h4>
 
-<p><em>"A Project for Women, From a Woman, Empowering Women"</em></p>
+<p><em>"A Project Built for Women, From a Woman, Empowering Women"</em></p>
 
 <p>🌱 Sustainable • 🌍 Eco-Conscious • ♻️ Carbon-Neutral • 💚 Women-Led</p>
 
@@ -60,7 +60,7 @@
 
 <h3>🎯 Empowering 10 Million Women Artisans Through AI</h3>
 
-<p><strong>A Project for Women, From a Woman, Empowering Women</strong></p>
+<p><strong>A Project Built for Women, From a Woman, Empowering Women</strong></p>
 
 <table>
 <tr>
@@ -459,7 +459,7 @@
 
 <div align="center">
 
-### *"A Project for Women, From a Woman, Empowering Women"*
+### *"A Project Built for Women, From a Woman, Empowering Women"*
 
 Building a sustainable, inclusive digital economy that values both people and planet
 
